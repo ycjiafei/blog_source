@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://www.hellowd.tk
+url: http://blog.hellowd.tk
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -103,6 +103,3 @@ theme: hexo-theme-icalm
 # Deployment
  ##Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:ycjiafei/ycjiafei.github.io.git
-  branch: master
